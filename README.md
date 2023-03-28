@@ -4,7 +4,7 @@ Instructions:
 
 1. Clone this repo to your machine.
 
-2. Download this file and move it to your machine:
+2. Download this file and move it to that directory:
 
 https://github.com/eyaler/word2vec-slim/blob/master/GoogleNews-vectors-negative300-SLIM.bin.gz
 
